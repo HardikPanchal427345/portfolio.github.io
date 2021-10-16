@@ -1,0 +1,22 @@
+header {
+    background-color: #040d21;
+    color: white;
+    z-index: 2;
+}
+
+.headerbtn {
+    color: #040d21;
+}
+
+header > .container {
+    max-width: 1296px;
+    
+}
+
+header > div > button {
+    color: #040d21;
+}
+.logo  {
+    color: white !important;
+}
+
